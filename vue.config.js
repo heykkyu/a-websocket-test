@@ -1,0 +1,6 @@
+module.exports = {
+  pages: {
+    index: 'src/main.js'
+  },
+  lintOnSave: false
+}
